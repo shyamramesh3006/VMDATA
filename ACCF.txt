@@ -1,0 +1,3 @@
+Automated code check 
+ls -lrt 
+cd ...
