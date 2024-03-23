@@ -3,3 +3,4 @@ ls -lrt
 cd ...
 pwd
 du -shx * 2>/dev/null |sort -h 
+history 
